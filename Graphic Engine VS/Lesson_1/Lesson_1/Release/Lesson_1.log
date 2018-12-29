@@ -1,0 +1,25 @@
+﻿  Buffer.cpp
+  Camera.cpp
+d:\mygames\graphics-engine\graphic engine vs\lesson_1\lesson_1\camera.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\mygames\graphics-engine\graphic engine vs\lesson_1\lesson_1\camera.cpp(57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Cube.cpp
+  DebugManager.cpp
+d:\mygames\graphics-engine\graphic engine vs\lesson_1\lesson_1\debugmanager.cpp(203): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  GameManager.cpp
+  GameObject.cpp
+d:\mygames\graphics-engine\graphic engine vs\lesson_1\lesson_1\gameobject.cpp(81): warning C4305: '=': truncation from 'double' to 'float'
+d:\mygames\graphics-engine\graphic engine vs\lesson_1\lesson_1\gameobject.cpp(105): warning C4305: '=': truncation from 'double' to 'float'
+  InputManager.cpp
+  Light.cpp
+  Main.cpp
+  Material.cpp
+  Model.cpp
+  Quad.cpp
+  ScreenManager.cpp
+  ShaderManager.cpp
+  Sprite.cpp
+  Texture.cpp
+  Generating code
+  All 918 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lesson_1.vcxproj -> D:\MyGames\Graphics-Engine\Graphic Engine VS\Lesson_1\Release\Lesson_1.exe

@@ -1,0 +1,7 @@
+Name=My Graphics Engine
+Width=1280
+Height=720
+Fullscreen=FALSE
+Major=4
+Minor=0
+OpenGLContext=COMPATIBILITY

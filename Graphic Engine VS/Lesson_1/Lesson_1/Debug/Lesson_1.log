@@ -1,0 +1,8 @@
+﻿  Camera.cpp
+d:\uni\graphics unit\week 11\latest work\multiple lights and models\lesson_1\lesson_1\camera.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\uni\graphics unit\week 11\latest work\multiple lights and models\lesson_1\lesson_1\camera.cpp(57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Cube.cpp
+  GameManager.cpp
+  Main.cpp
+  Generating Code...
+  Lesson_1.vcxproj -> D:\Uni\Graphics Unit\Week 11\Latest Work\Multiple Lights and Models\Lesson_1\Debug\Lesson_1.exe

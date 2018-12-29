@@ -1,0 +1,74 @@
+					CONTROLS:
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Movement:
+
+W - Forward
+A - Left
+S - Backward
+D - Right
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Camera:
+
+Mouse Motion
+Space - Up
+Left_Control - Down
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Light Controls:
+
+Up Arrow - Up
+Left Arrow - Left
+Down Arrow - Down
+Right Arrow - Right
+O - Forward
+P - Backward
+LI - Control one specific light only
+LJ - Control the other specific light only
+LK - Control all the lights in the scene (default option)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Light Interactivity:
+
+Minus (-) - Turn light(s) off
+	* if light(s) is turned off, controls for light don't work unless turned back on
+Plus (+) - Turn light(s) on
+1 - Lights turn Red and have ambient, diffuse and specular values for RUBY
+2 - Lights turn Green and have   ""			       "" for EMERALD
+3 - Lights turn Blue and have    ""			       "" for TURQUOISE
+4 - Lights turn Yellow and have  ""			       "" for GOLD
+5 - Lights turn Purple and have  ""			       "" for OBSIDIAN
+6 - Lights turn Silver and have  ""			       "" for SILVER
+7 - Lights turn White and have   ""			       "" for full white (0.5f)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Textures:
+
+Chrome: - https://www.freepik.com/free-vector/brushed-metallic-background_825629.htm#term=chrome%20texture&page=1&position=12
+Copper: - https://design.tutsplus.com/tutorials/copper-foil-text-effect--cms-27888
+Emerald: - https://www.pexels.com/photo/abstract-art-artificial-artistic-131634/
+Gold: - https://www.pexels.com/photo/close-up-photo-of-yellow-surface-988874/
+Obsidian: - https://www.pexels.com/photo/closeup-photo-of-purple-gemstones-1121123/
+Silver: - https://www.pexels.com/photo/black-and-white-gray-grey-smooth-1050305/
+Turquoise: - https://www.pexels.com/photo/abstract-art-background-blue-sky-289649/
+Stars: - https://www.pexels.com/photo/blue-and-purple-cosmic-sky-956999/
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Model Textures:
+
+Bedding: - https://www.pexels.com/photo/background-bed-headboard-decoration-design-531636/
+Chair: - https://www.pexels.com/photo/art-background-blue-design-268415/
+Table: - https://www.pexels.com/photo/brown-close-up-hd-wallpaper-surface-172289/
+Shower: - https://www.pexels.com/photo/abstract-attractive-backdrop-background-838423/
+Plate: - https://www.pexels.com/photo/slice-kiwi-fruit-on-salad-plate-1571840/
+Bed Table: - https://www.pexels.com/photo/abstract-antique-background-board-172276/
+Bin: - https://www.pexels.com/photo/blue-lined-flat-surface-132204/
+Pouf: - https://www.pexels.com/photo/close-up-concrete-creativity-dark-908286/
+
+--------------------------------------------------------------------------------------------------------------------------------------
